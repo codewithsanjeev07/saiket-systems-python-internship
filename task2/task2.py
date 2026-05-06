@@ -1,4 +1,4 @@
-"""SaiKet Systems — Internship Task 2:Guess the Number Game
+"""SaiKet Systems Internship Task 2:Guess the Number Game
 
 Description:
 Create a number guessing game where the

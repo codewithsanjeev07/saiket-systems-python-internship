@@ -1,5 +1,5 @@
 """
-SaiKet Systems — Internship Task 3
+SaiKet Systems Internship Task 3
 Basic File Handling
 -------------------------------------------
 Features:

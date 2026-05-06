@@ -1,9 +1,0 @@
-Welcome to SaiKet Systems File Handler!
-
-Python is a powerful programming language.
-Python is used in web development, data science, and automation.
-Many developers love Python for its simplicity and readability.
-
-This file was created as a sample for Task 3.
-We will find and replace words in this file using Python.
-Python makes file handling easy and intuitive.
